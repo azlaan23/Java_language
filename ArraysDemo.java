@@ -11,9 +11,30 @@ public class ArraysDemo {
 //    }
 //}
 
+//
+//        for (int i = 6; i >= 0; i--) {
+//            System.out.println(names[i]);
+//        }
+//    }
+//}
+//
+//        for (int i = 6; i>=0;i--)
+//        {
+//            System.out.println(names[i]);
+//        }
+//    }
+//}
 
-        for (int i = 6; i >= 0; i--) {
+
+        System.out.println(names[0]);
+        for (int i = 0; i < names.length; i++) {
             System.out.println(names[i]);
         }
     }
 }
+
+
+
+
+
+

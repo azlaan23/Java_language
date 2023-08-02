@@ -66,7 +66,8 @@ public class exam_2 {
 //                System.out.println(evenSum);
             }
         }
-        System.out.println("\n The Sum of Even Numbers upto " + " number "+" =  " + evenSum);
+//        System.out.println("\n The Sum of Even Numbers upto " + " number "+" =  " + evenSum);
+        System.out.println(arr[i]);
     }
 }
 
